@@ -1608,6 +1608,10 @@
             uid: az_communication_email_domain_sender-username
             displayName: az communication email domain sender-username
             items: []
+        - name: status
+          uid: az_communication_email_status
+          displayName: az communication email status
+          items: []
       - name: identity
         items:
         - name: Commands
